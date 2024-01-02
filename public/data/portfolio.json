@@ -1,0 +1,10 @@
+{
+    "portfolio": [
+        {
+            "cover": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/6161851ac369b80007306bf6/screenshot_2021-10-09-12-04-48-0000.png",
+            "title": "A Tiny E-Commerce",
+            "description": "React, JSX, Redux, Jest",
+            "url": "https://elife.netlify.app/"
+        }
+    ]
+}
