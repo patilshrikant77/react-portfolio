@@ -7,7 +7,7 @@
             "url": "https://elife.netlify.app/"
         },
         {
-            "cover": "https://raw.githubusercontent.com/patilshrikant77/fullstack_task_management/refs/heads/master/frontend/public/app_screenshot%20.png"
+            "cover": "https://raw.githubusercontent.com/patilshrikant77/fullstack_task_management/refs/heads/master/frontend/public/app_screenshot%20.png",
             "title": "Fullstack Kanban Task Management Web App",
             "description": "React, Redux, TailwindCSS, Drag and Drop API, Spring Boot - Java, PostgreSQL, JWT",
             "url": "https://fullstack-task-management-i3u4.onrender.com/"
