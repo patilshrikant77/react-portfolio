@@ -5,6 +5,12 @@
             "title": "A Tiny E-Commerce",
             "description": "React, JSX, Redux, Jest",
             "url": "https://elife.netlify.app/"
+        },
+        {
+            "cover": "https://private-user-images.githubusercontent.com/6408984/374043930-e057a0d9-ba21-4efc-9453-785423992854.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyODA1NzUsIm5iZiI6MTcyODI4MDI3NSwicGF0aCI6Ii82NDA4OTg0LzM3NDA0MzkzMC1lMDU3YTBkOS1iYTIxLTRlZmMtOTQ1My03ODU0MjM5OTI4NTQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMDdUMDU1MTE1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDg2ZGMwMDA2NGM2Y2I0YmEwNTQzNWVhYTc2OTQ2OGY4ZjkwOTA3YmMzYjIzZGQ1MzNmYjdlNzM1NjdkYmQ1YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Zlv6J8WO6dNvbVKw49_2Sb8xNroBTq3GAqkyIFPrKlI",
+            "title": "Fullstack Kanban Task Management Web App",
+            "description": "React, Redux, TailwindCSS, Drag and Drop API, Spring Boot - Java, PostgreSQL, JWT",
+            "url": "https://fullstack-task-management-i3u4.onrender.com/"
         }
     ]
 }
